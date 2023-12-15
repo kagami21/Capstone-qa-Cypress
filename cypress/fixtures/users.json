@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "email": "goyar87368@notedns.com",
+    "password": "iX5eRm3f!F5dd3!"
+  },
+  "invalidUser": {
+    "email": "invaliduser@example.com",
+    "password": "invalidpassword"
+  }
+}
